@@ -12,7 +12,7 @@ const WhyChooseUsSection = () => {
                     assets.
                 </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-16">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-4 xl:gap-16">
                     <div className="cursor-pointer why-choose-us-card-1 px-10 py-14 lg:p-5 xl:px-10 xl:py-14">
                         <img
                             className="w-2/5 mx-auto pb-4"

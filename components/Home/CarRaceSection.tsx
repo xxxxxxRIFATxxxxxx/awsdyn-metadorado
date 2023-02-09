@@ -29,7 +29,7 @@ const CarRaceSection = () => {
                     daily
                 </p>
 
-                <div className="grid grid-cols-1 lg:grid-cols-5 gap-8 lg:gap-16">
+                <div className="grid grid-cols-1 lg:grid-cols-5 gap-8 lg:gap-4 xl:gap-16">
                     <Link href="/#collect">
                         <div
                             className={`card car-race-card-1 p-4 md:p-6 lg:p-4 xl:p-6 h-full lg:h-[80%] ${
