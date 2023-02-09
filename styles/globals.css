@@ -1,0 +1,365 @@
+/* Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Common CSS */
+:root {
+    --green: #27e124;
+    --dark-green: #002007;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    scroll-behavior: smooth;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.green-text {
+    color: var(--green);
+}
+
+.text-green-shadow {
+    text-shadow: 0px 4px 40px rgba(38, 181, 87, 0.4);
+}
+
+.card {
+    background-color: var(--light-green);
+    border-radius: 20px;
+}
+
+.active-card {
+    background-color: var(--light-green-active);
+    border-radius: 20px;
+    border: 5px solid white;
+    position: relative;
+}
+
+@layer base {
+    @font-face {
+        font-family: "Evil Empire";
+        src: url("/fonts/evil-empire.woff2") format("woff2");
+        font-weight: 400;
+        font-display: "swap";
+        font-style: normal;
+    }
+}
+
+@layer components {
+    .custom-container {
+        @apply p-14 md:p-20 lg:p-28 mx-auto;
+    }
+
+    .custom-container-x {
+        @apply px-14 md:px-20 lg:px-28 mx-auto;
+    }
+
+    .custom-container-y {
+        @apply py-14 md:py-20 lg:py-28 mx-auto;
+    }
+
+    .heading-1 {
+        @apply text-4xl md:text-6xl lg:text-7xl;
+    }
+
+    .heading-2 {
+        @apply text-4xl md:text-5xl lg:text-6xl;
+    }
+
+    .heading-3 {
+        @apply text-2xl md:text-3xl text-4xl;
+    }
+
+    .text {
+        @apply text-base md:text-base text-white;
+    }
+}
+
+/* Header Section */
+.header-section {
+    background-image: url("/images/header-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Footer Section */
+.footer-section {
+    background-color: var(--dark-green);
+}
+
+/* Hero Section */
+.hero-section {
+    background-color: var(--dark-green);
+}
+
+.video-box {
+    border-radius: 50px;
+    overflow: hidden;
+    height: 78vh;
+    opacity: 0.7;
+}
+
+.title-box {
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: fit-content;
+}
+
+/* Welcome Section */
+.welcome-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/welcome-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Play And Earn Section */
+.play-and-earn-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/play-and-earn-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.play-and-earn-card-1 {
+    background: linear-gradient(173.21deg, #27d9b0 -1.37%, #1323c4 94.68%);
+}
+
+.play-and-earn-card-2 {
+    background: linear-gradient(180deg, #1b8b7a 0%, #7db029 100%);
+}
+
+.play-and-earn-card-3 {
+    background: linear-gradient(180deg, #e4c786 0%, #bb275c 100%);
+}
+
+/* Car Race Section */
+.car-race-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/car-race-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.car-race-card-1 {
+    background: linear-gradient(180deg, #d8bfd1 0%, #2b0651 100%);
+}
+
+.car-race-card-2 {
+    background: linear-gradient(180deg, #dcd933 0%, #0a6a5c 82.29%);
+}
+
+.car-race-card-3 {
+    background: linear-gradient(180deg, #ffd6db 0%, #a9505b 100%);
+}
+
+.car-race-card-4 {
+    background: linear-gradient(180deg, #e4c986 0%, #b92128 100%);
+}
+
+.car-race-card-5 {
+    background: linear-gradient(360deg, #9ba425 0%, #81e7d4 100%);
+}
+
+/* Icon Section */
+.icon-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/icon-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Count Down Section */
+.count-down-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/count-down-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.token-sell-meter-container {
+    border: 1px solid #27e124;
+    filter: drop-shadow(0px 0px 5px #25de38);
+    border-radius: 20px;
+}
+
+.token-sell-meter {
+    padding: 20px;
+    background-color: var(--green);
+    border-radius: 20px;
+}
+
+.token-sell-ends-count {
+    border: 1px solid #27e124;
+    filter: drop-shadow(0px 0px 10px #25de38);
+    border-radius: 20px;
+}
+
+.token-sell-ends-count > p {
+    letter-spacing: 1.1em;
+}
+
+/* Carbon Credit Section */
+.carbon-credit-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/carbon-credit-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Combat Game Section */
+.combat-game-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/combat-game-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* White Paper Section */
+.white-paper-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/white-paper-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Why Choose Us Section */
+.why-choose-us-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/why-choose-us-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.why-choose-us-card-1 {
+    background: rgba(119, 49, 224, 0.1);
+    border: 3px solid rgba(218, 29, 229, 0.5);
+    box-shadow: 0px 0px 25px rgba(135, 30, 142, 0.6);
+    border-radius: 45% / 12%;
+}
+
+.why-choose-us-card-1:hover {
+    border: 3px solid rgba(218, 29, 229, 1);
+}
+
+.why-choose-us-card-2 {
+    background: rgba(249, 82, 131, 0.1);
+    border: 3px solid rgba(196, 22, 43, 0.5);
+    box-shadow: 0px 0px 25px rgba(149, 21, 45, 0.6);
+    border-radius: 45% / 12%;
+}
+
+.why-choose-us-card-2:hover {
+    border: 3px solid rgba(196, 22, 43, 1);
+}
+
+.why-choose-us-card-3 {
+    background: rgba(177, 241, 88, 0.1);
+    border: 3px solid rgba(61, 172, 35, 0.5);
+    box-shadow: 0px 0px 25px rgba(53, 131, 39, 0.6);
+    border-radius: 20px;
+    border-radius: 45% / 12%;
+}
+
+.why-choose-us-card-3:hover {
+    border: 3px solid rgb(73, 207, 43);
+}
+
+.why-choose-us-card-4 {
+    background: rgba(97, 219, 247, 0.1);
+    border: 3px solid rgba(14, 76, 202, 0.5);
+    box-shadow: 0px 0px 25px rgba(6, 38, 159, 0.6);
+    border-radius: 20px;
+    border-radius: 45% / 12%;
+}
+
+.why-choose-us-card-4:hover {
+    border: 3px solid rgb(35, 106, 247);
+}
+
+/* Token Economic Section */
+.token-economic-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/token-economic-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Token Distribution Section */
+.token-distribution-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/token-distribution-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Road Map Section */
+.road-map-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/road-map-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Wallet Section */
+.wallet-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/wallet-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Contact Section */
+.contact-section {
+    background-color: var(--dark-green);
+    background-image: url("/images/contact-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.input-border {
+    border: 1px solid var(--green);
+}
+
+/* Buy Page CSS */
+.buy-page {
+    background-color: var(--dark-green);
+}
+
+.count-down-box {
+    background-color: var(--dark-green);
+    background-image: url("/images/count-down-section-bg.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 1px solid white;
+    border-radius: 50px;
+    overflow: hidden;
+    height: 78vh;
+}
