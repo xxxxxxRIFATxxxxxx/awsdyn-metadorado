@@ -39,7 +39,7 @@ const CountDownSection = () => {
                     <div>
                         <h2 className="heading-2 font-EvilEmpire text-white text-center lg:text-start pb-8">
                             CRYPTO THE REVOLUTION IN{" "}
-                            <br className="hidden lg:block" />
+                            <br className="hidden xl:block" />
                             <span className="green-text">VIRTUAL COIN</span>
                         </h2>
 

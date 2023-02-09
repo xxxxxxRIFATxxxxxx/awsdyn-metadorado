@@ -11,7 +11,7 @@ const HeroSection = () => {
                         <Header />
                     </div>
 
-                    <div className="video-box">
+                    <div className="video-box lg:rounded-0 xl:rounded-[50px]">
                         <video width="100%" autoPlay loop muted>
                             <source
                                 src="/images/hero-section-video.mp4"

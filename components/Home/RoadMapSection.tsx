@@ -29,12 +29,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         01 2022
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         Project Ideation
                                     </p>
                                 </div>
@@ -49,12 +49,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         02 2022
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         Research and <br /> Analysis
                                     </p>
                                 </div>
@@ -69,12 +69,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         04 2022
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         Project <br /> Development
                                     </p>
                                 </div>
@@ -89,12 +89,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         01 2023
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         Token Launch
                                     </p>
                                 </div>
@@ -109,12 +109,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         01 2023
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         White Paper <br /> Launch
                                     </p>
                                 </div>
@@ -129,12 +129,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         01 2023
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         Project Global <br /> Launch
                                     </p>
                                 </div>
@@ -149,12 +149,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         01 2023
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         MetaDorado (MTD) <br /> Token Website{" "}
                                         <br />
                                         Sale
@@ -171,12 +171,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         02 2023
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         MetaDorado (MTD) <br /> Token on <br />
                                         DEX
                                     </p>
@@ -192,12 +192,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         02 2023
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         MetaDorado (MTD) <br /> Token on <br />
                                         CEX
                                     </p>
@@ -213,12 +213,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         03 2023
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         MetaDorado (MTD) <br /> Token Metaverse{" "}
                                         <br />
                                         Launch
@@ -235,12 +235,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         03 2023
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         MetaDorado (MTD) <br /> Token Games{" "}
                                         <br />
                                         Launch
@@ -257,12 +257,12 @@ const RoadMapSection = () => {
                                     alt="image"
                                 />
 
-                                <div className="absolute left-0 right-0 top-32 bottom-0 h-fit m-auto">
+                                <div className="absolute left-0 right-0 top-20 xl:top-32 bottom-0 h-fit m-auto">
                                     <h2 className="heading-3 text-white font-EvilEmpire text-center">
                                         04 2023
                                     </h2>
 
-                                    <p className="text text-white text-center">
+                                    <p className="text-sm xl:text-xl text-white text-center">
                                         NFT Market <br /> Place Launch
                                     </p>
                                 </div>

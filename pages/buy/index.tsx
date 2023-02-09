@@ -41,7 +41,7 @@ const index = () => {
                         <Header />
                     </div>
 
-                    <div className="count-down-box custom-container">
+                    <div className="count-down-box lg:rounded-0 xl:rounded-[50px] custom-container">
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 py-8">
                             <div>
                                 <h2 className="heading-2 font-EvilEmpire text-white text-center lg:text-start pb-8">
