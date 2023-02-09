@@ -12,7 +12,8 @@ const CarRaceSection = () => {
         <div className="car-race-section" id="car-race-section">
             <div className="custom-container">
                 <h2 className="heading-2 font-EvilEmpire text-center text-white pb-8">
-                    DISCOVER THE THRILL OF RACING <br /> IN THE{" "}
+                    DISCOVER THE THRILL OF RACING{" "}
+                    <br className="hidden md:block" /> IN THE{" "}
                     <span className="green-text">METAVERSE</span>
                 </h2>
 

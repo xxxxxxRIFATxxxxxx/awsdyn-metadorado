@@ -18,7 +18,7 @@ const Header = () => {
     return (
         <>
             {/* For Web */}
-            <div className="header-section py-3 px-10 hidden lg:block">
+            <div className="header-section py-3 lg:px-5 xl:px-10 hidden lg:block">
                 <div className="flex items-center justify-between">
                     <div>
                         <Link href="/">
@@ -29,10 +29,10 @@ const Header = () => {
                     </div>
 
                     <div className="flex items-center justify-between">
-                        <div className="mr-8">
+                        <div className="lg:mr-3 xl:mr-8">
                             <Link
                                 href="/"
-                                className={`text-2xl font-EvilEmpire text-center text-white ${
+                                className={`text-lg font-EvilEmpire text-center text-white ${
                                     active === "HOME" &&
                                     "underline underline-offset-4 decoration-4"
                                 }`}
@@ -42,10 +42,10 @@ const Header = () => {
                             </Link>
                         </div>
 
-                        <div className="mr-8">
+                        <div className="lg:mr-3 xl:mr-8">
                             <Link
                                 href="/#welcome-section"
-                                className={`text-2xl font-EvilEmpire text-center text-white ${
+                                className={`text-lg font-EvilEmpire text-center text-white ${
                                     active === "ABOUT" &&
                                     "underline underline-offset-4 decoration-4"
                                 }`}
@@ -55,10 +55,10 @@ const Header = () => {
                             </Link>
                         </div>
 
-                        <div className="mr-8">
+                        <div className="lg:mr-3 xl:mr-8">
                             <Link
                                 href="/#why-choose-us-section"
-                                className={`text-2xl font-EvilEmpire text-center text-white ${
+                                className={`text-lg font-EvilEmpire text-center text-white ${
                                     active === "FEATURES" &&
                                     "underline underline-offset-4 decoration-4"
                                 }`}
@@ -68,10 +68,10 @@ const Header = () => {
                             </Link>
                         </div>
 
-                        <div className="mr-8">
+                        <div className="lg:mr-3 xl:mr-8">
                             <Link
                                 href="/#road-map-section"
-                                className={`text-2xl font-EvilEmpire text-center text-white ${
+                                className={`text-lg font-EvilEmpire text-center text-white ${
                                     active === "ROADMAP" &&
                                     "underline underline-offset-4 decoration-4"
                                 }`}
@@ -81,10 +81,10 @@ const Header = () => {
                             </Link>
                         </div>
 
-                        <div className="mr-8">
+                        <div className="lg:mr-3 xl:mr-8">
                             <Link
                                 href="/buy"
-                                className={`text-2xl font-EvilEmpire text-center text-white ${
+                                className={`text-lg font-EvilEmpire text-center text-white ${
                                     active === "STAKE" &&
                                     "underline underline-offset-4 decoration-4"
                                 }`}
@@ -94,10 +94,10 @@ const Header = () => {
                             </Link>
                         </div>
 
-                        <div className="mr-8">
+                        <div className="lg:mr-3 xl:mr-8">
                             <Link
                                 href="/#play-and-earn-section"
-                                className={`text-2xl font-EvilEmpire text-center text-white ${
+                                className={`text-lg font-EvilEmpire text-center text-white ${
                                     active === "PLAY" &&
                                     "underline underline-offset-4 decoration-4"
                                 }`}
@@ -110,7 +110,7 @@ const Header = () => {
                         <div>
                             <Link
                                 href="/#wallet-section"
-                                className={`text-2xl font-EvilEmpire text-center text-yellow-300 ${
+                                className={`text-lg font-EvilEmpire text-center text-yellow-300 ${
                                     active === "Wallet Connect" && ""
                                 }`}
                                 onClick={() => handleActive("Wallet Connect")}
@@ -160,9 +160,9 @@ const Header = () => {
                                     xmlns="http://www.w3.org/2000/svg"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     ></path>
                                 </svg>
                             </button>

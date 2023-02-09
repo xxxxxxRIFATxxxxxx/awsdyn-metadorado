@@ -21,7 +21,7 @@ const TokenDistributionSection = () => {
 
                 <div>
                     <img
-                        className="w-full"
+                        className="w-full lg:w-[65%] mx-auto"
                         src="/images/token-distribution-chart.svg"
                         alt="image"
                     />

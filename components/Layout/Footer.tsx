@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="custom-container">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                     <div className="pb-8 md:pb-0">
-                        <h3 className="text-4xl font-EvilEmpire text-white text-center lg:text-start pb-8">
+                        <h3 className="heading-3 font-EvilEmpire text-white text-center lg:text-start pb-8">
                             METADORADO
                         </h3>
 
@@ -36,7 +36,7 @@ const Footer = () => {
                     </div>
 
                     <div className="text-center lg:text-start">
-                        <h5 className="text-2xl text-white font-EvilEmpire pb-8">
+                        <h5 className="text-lg text-white font-EvilEmpire pb-8">
                             COMPANY
                         </h5>
 
@@ -78,7 +78,7 @@ const Footer = () => {
                     </div>
 
                     <div className="text-center lg:text-start">
-                        <h5 className="text-2xl text-white font-EvilEmpire pb-8">
+                        <h5 className="text-lg text-white font-EvilEmpire pb-8">
                             Sales
                         </h5>
 
@@ -120,7 +120,7 @@ const Footer = () => {
                     </div>
 
                     <div className="text-center lg:text-start">
-                        <h5 className="text-2xl text-white font-EvilEmpire pb-8">
+                        <h5 className="text-lg text-white font-EvilEmpire pb-8">
                             NEWSLETTER
                         </h5>
 
