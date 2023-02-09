@@ -14,13 +14,13 @@ body {
     padding: 0;
     margin: 0;
     font-family: "Poppins", sans-serif;
-    scroll-behavior: smooth !important;
+    /* scroll-behavior: smooth !important; */
 }
 
 * {
     padding: 0;
     margin: 0;
-    scroll-behavior: smooth;
+    /* scroll-behavior: smooth; */
 }
 
 .green-text {
@@ -333,6 +333,15 @@ body {
     background-position: center;
     background-size: cover;
 }
+
+
+/* hove coin flip style added */
+.flip-img:hover {
+    transform-style: preserve-3d;
+    transform: rotateY(360deg);
+    transition: 1s;
+}
+
 
 /* Contact Section */
 .contact-section {
