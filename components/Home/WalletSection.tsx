@@ -8,7 +8,7 @@ const WalletSection = () => {
                     ALL WALLET <span className="green-text">OPTIONS</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[40%] mx-auto">
+                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     A token wallet is a digital wallet that can be used to
                     store, send, and receive various types of tokens, such as
                     cryptocurrencies and other digital assets.

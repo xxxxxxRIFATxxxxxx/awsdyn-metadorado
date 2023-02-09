@@ -6,7 +6,7 @@ const WhyChooseUsSection = () => {
                     WHY <span className="green-text">CHOOSE US</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[40%] mx-auto">
+                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     Security: The website may have robust security measures in
                     place to <br className="hidden lg:block" /> protect user's
                     assets.

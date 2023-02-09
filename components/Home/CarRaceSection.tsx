@@ -16,7 +16,7 @@ const CarRaceSection = () => {
                     <span className="green-text">METAVERSE</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[40%] mx-auto">
+                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     <span className="font-bold green-text">COLLECT</span> &{" "}
                     <span className="font-bold green-text">TRADE</span> stunning
                     CARS and accelerate your way to the{" "}

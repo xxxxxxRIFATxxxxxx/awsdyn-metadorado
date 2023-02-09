@@ -6,7 +6,7 @@ const ContactSection = () => {
                     CONTACT <span className="green-text">US</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[40%] mx-auto">
+                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     Meta Dorados is a collection of 10,000 unique ERC-721 tokens
                     stored on the Ethereum Blockchain
                 </p>

@@ -9,7 +9,7 @@ const TokenDistributionSection = () => {
                     TOKEN DISTRIBUTION <span className="green-text">MODEL</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[40%] mx-auto">
+                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     <span className="font-bold green-text">
                         Total Supply - 111,111,111
                     </span>{" "}

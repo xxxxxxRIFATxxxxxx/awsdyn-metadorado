@@ -15,7 +15,7 @@ const PlayAndEarnSection = () => {
                     PLAY AND <span className="green-text">EARN</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[40%] mx-auto">
+                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     You can purchase any car of your choice from the
                     marketplace. <br className="hidden lg:block" /> They come in
                     varying engine capacity, traits and price tags
