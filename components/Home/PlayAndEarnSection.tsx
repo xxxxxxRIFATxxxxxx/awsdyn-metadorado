@@ -15,7 +15,7 @@ const PlayAndEarnSection = () => {
                     PLAY AND <span className="green-text">EARN</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
+                <p className="text text-white text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     You can purchase any car of your choice from the
                     marketplace. <br className="hidden lg:block" /> They come in
                     varying engine capacity, traits and price tags
@@ -40,7 +40,7 @@ const PlayAndEarnSection = () => {
                                     Rent to Earn
                                 </h3>
 
-                                <p className="text text-center text-gray-300">
+                                <p className="text text-center text-white">
                                     Renting NFTs can become an inseparable part
                                     of the DeFi and GameFi industries by solving
                                     the issue of high entry barriers and costly
@@ -70,7 +70,7 @@ const PlayAndEarnSection = () => {
                                     Collect to Earn
                                 </h3>
 
-                                <p className="text text-center text-gray-300">
+                                <p className="text text-center text-white">
                                     With the blockchain, gamers can sell what
                                     they manage to collect in the game, turning
                                     their video game spending into investing.
@@ -105,9 +105,9 @@ const PlayAndEarnSection = () => {
                                     Scholarship Model
                                 </h3>
 
-                                <p className="text text-center text-gray-300">
+                                <p className="text text-center text-white">
                                     A scholarship is a popular pathway to
-                                    onboard newcomers to NFT games. MetaDorado
+                                    onboard newcomers to NFT games. Dorado
                                     provides scholarships to new players as a
                                     rewards-sharing model, where the Players
                                     acquires NFT assets and rents them to new

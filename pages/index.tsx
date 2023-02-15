@@ -18,11 +18,7 @@ import Meta from "../components/Meta/Meta";
 export default function Home() {
     return (
         <>
-            <Meta
-                title="Metadorado"
-                keywords="Metadorado"
-                description="Metadorado"
-            />
+            <Meta title="Dorado" keywords="Dorado" description="Dorado" />
 
             <HeroSection />
             <WelcomeSection />

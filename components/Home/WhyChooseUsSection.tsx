@@ -6,7 +6,7 @@ const WhyChooseUsSection = () => {
                     WHY <span className="green-text">CHOOSE US</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
+                <p className="text text-white text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     Security: The website may have robust security measures in
                     place to <br className="hidden lg:block" /> protect user's
                     assets.
@@ -25,7 +25,7 @@ const WhyChooseUsSection = () => {
                                 IT IS SMART
                             </h3>
 
-                            <p className="text text-center text-gray-300">
+                            <p className="text text-center text-white">
                                 We are developing agile and resourceful
                                 financial services and fund management with the
                                 help of a team of Al/ML researchers from
@@ -46,7 +46,7 @@ const WhyChooseUsSection = () => {
                                 IT IS SECURE
                             </h3>
 
-                            <p className="text text-center text-gray-300">
+                            <p className="text text-center text-white">
                                 DSF is built on the BSC Blockchain, which is
                                 fast, low on gas, and has a rising number of
                                 validators, promising it to be firmer by the
@@ -67,7 +67,7 @@ const WhyChooseUsSection = () => {
                                 IT IS DECENTRALIZED
                             </h3>
 
-                            <p className="text text-center text-gray-300">
+                            <p className="text text-center text-white">
                                 Our Al-backed Smart Contract, which is
                                 decentralized, will provide you control over the
                                 confidentiality of your data, investments, and
@@ -88,7 +88,7 @@ const WhyChooseUsSection = () => {
                                 IT IS INNOVATIVE
                             </h3>
 
-                            <p className="text text-center text-gray-300">
+                            <p className="text text-center text-white">
                                 We use cutting edge technology and meld them
                                 revolutionary and innovative projects
                                 benefitting the community.

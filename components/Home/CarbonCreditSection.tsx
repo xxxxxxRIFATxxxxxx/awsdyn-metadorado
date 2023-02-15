@@ -20,12 +20,12 @@ const CarbonCreditSection = () => {
                                 <span className="green-text">CREDITS NFT</span>
                             </h2>
 
-                            <p className="text text-gray-300 text-justify pb-12 w-full">
+                            <p className="text text-white text-justify pb-12 w-full">
                                 {/* Partial Text */}
                                 <span
                                     className={`${show ? "hidden" : "block"}`}
                                 >
-                                    MetaDorado Token is a Bridge between Carbon
+                                    Dorado Token is a Bridge between Carbon
                                     Credit combination of Web 3.0 (NFT) and
                                     Environment enhancements to buy Carbon
                                     Credits to ensure the transparency and
@@ -38,7 +38,7 @@ const CarbonCreditSection = () => {
                                 <span
                                     className={`${show ? "block" : "hidden"}`}
                                 >
-                                    MetaDorado Token is a Bridge between Carbon
+                                    Dorado Token is a Bridge between Carbon
                                     Credit combination of Web 3.0 (NFT) and
                                     Environment enhancements to buy Carbon
                                     Credits to ensure the transparency and

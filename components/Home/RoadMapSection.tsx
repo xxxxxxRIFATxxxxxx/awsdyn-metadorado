@@ -155,7 +155,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text-sm xl:text-xl text-white text-center">
-                                        MetaDorado (MTD) <br /> Token Website{" "}
+                                        Dorado (MTD) <br /> Token Website{" "}
                                         <br />
                                         Sale
                                     </p>
@@ -177,7 +177,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text-sm xl:text-xl text-white text-center">
-                                        MetaDorado (MTD) <br /> Token on <br />
+                                        Dorado (MTD) <br /> Token on <br />
                                         DEX
                                     </p>
                                 </div>
@@ -198,7 +198,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text-sm xl:text-xl text-white text-center">
-                                        MetaDorado (MTD) <br /> Token on <br />
+                                        Dorado (MTD) <br /> Token on <br />
                                         CEX
                                     </p>
                                 </div>
@@ -219,7 +219,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text-sm xl:text-xl text-white text-center">
-                                        MetaDorado (MTD) <br /> Token Metaverse{" "}
+                                        Dorado (MTD) <br /> Token Metaverse{" "}
                                         <br />
                                         Launch
                                     </p>
@@ -241,7 +241,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text-sm xl:text-xl text-white text-center">
-                                        MetaDorado (MTD) <br /> Token Games{" "}
+                                        Dorado (MTD) <br /> Token Games{" "}
                                         <br />
                                         Launch
                                     </p>
@@ -422,7 +422,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token Website{" "}
+                                        Dorado (MTD) <br /> Token Website{" "}
                                         <br />
                                         Sale
                                     </p>
@@ -444,7 +444,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token on <br />
+                                        Dorado (MTD) <br /> Token on <br />
                                         DEX
                                     </p>
                                 </div>
@@ -465,7 +465,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token on <br />
+                                        Dorado (MTD) <br /> Token on <br />
                                         CEX
                                     </p>
                                 </div>
@@ -486,7 +486,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token Metaverse{" "}
+                                        Dorado (MTD) <br /> Token Metaverse{" "}
                                         <br />
                                         Launch
                                     </p>
@@ -508,7 +508,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token Games{" "}
+                                        Dorado (MTD) <br /> Token Games{" "}
                                         <br />
                                         Launch
                                     </p>
@@ -681,7 +681,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token Website{" "}
+                                        Dorado (MTD) <br /> Token Website{" "}
                                         <br />
                                         Sale
                                     </p>
@@ -703,7 +703,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token on <br />
+                                        Dorado (MTD) <br /> Token on <br />
                                         DEX
                                     </p>
                                 </div>
@@ -724,7 +724,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token on <br />
+                                        Dorado (MTD) <br /> Token on <br />
                                         CEX
                                     </p>
                                 </div>
@@ -745,7 +745,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token Metaverse{" "}
+                                        Dorado (MTD) <br /> Token Metaverse{" "}
                                         <br />
                                         Launch
                                     </p>
@@ -767,7 +767,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        MetaDorado (MTD) <br /> Token Games{" "}
+                                        Dorado (MTD) <br /> Token Games{" "}
                                         <br />
                                         Launch
                                     </p>

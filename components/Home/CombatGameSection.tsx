@@ -17,7 +17,7 @@ const CombatGameSection = () => {
                                 COMBAT <span className="green-text">GAME</span>
                             </h2>
 
-                            <p className="text text-gray-300 text-justify pb-12 w-full">
+                            <p className="text text-white text-justify pb-12 w-full">
                                 Earn fame and glory as you command your
                                 upgradeable NFT WarShips equipped with the
                                 latest weapons and mods. Use your tactical

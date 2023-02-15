@@ -7,7 +7,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                     <div className="pb-8 md:pb-0">
                         <h3 className="heading-3 font-EvilEmpire text-white text-center lg:text-start pb-8">
-                            METADORADO
+                            Dorado
                         </h3>
 
                         <p className="text text-white text-center lg:text-start pb-8">
@@ -146,7 +146,7 @@ const Footer = () => {
 
                 <div className="border-t border-[#979797] mt-8 pt-8">
                     <p className="text text-white text-center">
-                        Crafted With The Yolo Studio. All Rights Reserved
+                        Copyright &copy; Dorado All Rights Reserved
                     </p>
                 </div>
             </div>

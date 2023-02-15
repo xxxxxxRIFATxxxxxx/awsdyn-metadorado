@@ -19,7 +19,7 @@ const WhitePaperSection = () => {
                                 WHITE<span className="green-text">PAPER</span>
                             </h2>
 
-                            <p className="text text-gray-300 text-justify pb-12 w-full">
+                            <p className="text text-white text-justify pb-12 w-full">
                                 {/* Partial Text */}
                                 <span
                                     className={`${show ? "hidden" : "block"}`}

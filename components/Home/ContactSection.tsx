@@ -6,10 +6,10 @@ const ContactSection = () => {
                     CONTACT <span className="green-text">US</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
+                {/* <p className="text text-white text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     Meta Dorados is a collection of 10,000 unique ERC-721 tokens
                     stored on the Ethereum Blockchain
-                </p>
+                </p> */}
 
                 <div className="px-0 lg:px-44">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pb-2">
@@ -56,7 +56,7 @@ const ContactSection = () => {
 
                     <button
                         type="submit"
-                        className="input-border text-gray-300 hover:text-black hover:bg-[#27e124] focus:ring-4 focus:outline-none focus:ring-[#27e124] font-medium rounded-lg text-sm w-full md:w-1/5 px-5 py-3 text-center"
+                        className="input-border text-white hover:text-black hover:bg-[#27e124] focus:ring-4 focus:outline-none focus:ring-[#27e124] font-medium rounded-lg text-sm w-full md:w-1/5 px-5 py-3 text-center"
                     >
                         Submit
                     </button>

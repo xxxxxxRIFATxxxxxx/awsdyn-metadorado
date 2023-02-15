@@ -9,7 +9,7 @@ const WelcomeSection = () => {
                     <span className="green-text">Multi Games Platform</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify pb-8 w-full lg:w-[50%] mx-auto">
+                <p className="text text-white text-justify pb-8 w-full lg:w-[50%] mx-auto">
                     It is the Token built by a Visionary Team with Real time Use
                     case and a Platform built for all future Web3.0 and
                     Metaverse Application to enhance a Global community
@@ -24,7 +24,7 @@ const WelcomeSection = () => {
                     for its Community Members.
                 </p>
 
-                <p className="text text-gray-300 text-justify pb-8 w-full lg:w-[50%] mx-auto">
+                <p className="text text-white text-justify pb-8 w-full lg:w-[50%] mx-auto">
                     The Most{" "}
                     <span className="font-bold green-text">Authentic</span>,{" "}
                     <span className="font-bold green-text">Competitive</span>,

@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 // For Count Down
 function calculateTimeLeft() {
     const year = new Date().getFullYear();
-    const difference = +new Date(`${year}-10-1`) - +new Date();
+    const difference = +new Date(`${year}-8-15`) - +new Date();
     let timeLeft = {};
 
     if (difference > 0) {
@@ -43,7 +43,7 @@ const CountDownSection = () => {
                             <span className="green-text">VIRTUAL COIN</span>
                         </h2>
 
-                        <p className="text text-gray-300 text-justify pb-12 w-full lg:w-[60%]">
+                        <p className="text text-white text-justify pb-12 w-full lg:w-[60%]">
                             Buy now and get +40% extra bonus Minimum per-sale
                             amount 25 cryptic coin. We accept BTC
                             crypto-currency
@@ -83,7 +83,7 @@ const CountDownSection = () => {
 
                         <div className="token-sell-ends-count p-5 lg:px-10 lg:py-5 mb-10">
                             <p className="text green-text pb-5 text-center">
-                                TOKEN SELL ENDS
+                                TOKEN SALE BEGINSS
                             </p>
 
                             <div className="flex items-center justify-between">
@@ -123,7 +123,7 @@ const CountDownSection = () => {
                             </div>
 
                             <div className="text-white absolute top-[28%] right-[4%]">
-                                15%
+                                0.5%
                             </div>
                         </div>
 

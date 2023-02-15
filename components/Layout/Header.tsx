@@ -2,8 +2,6 @@ import Link from "next/link";
 import { useState } from "react";
 import { Link as Scroll } from "react-scroll/modules";
 
-
-
 const Header = () => {
     const [showNav, setShowNav] = useState(false);
     const [active, setActive] = useState("HOME");
@@ -26,7 +24,7 @@ const Header = () => {
                     <div>
                         <Link href="/">
                             <h3 className="heading-3 font-EvilEmpire text-white">
-                                METADORADO
+                                Dorado
                             </h3>
                         </Link>
                     </div>
@@ -53,9 +51,16 @@ const Header = () => {
                                     "underline underline-offset-4 decoration-4"
                                 }`}
                                 onClick={() => handleActive("ABOUT")}
-                            > 
-                                <Scroll activeClass="active" to="welcome-section" spy={true} smooth={true} offset={0} duration={500}>
-                                        ABOUT
+                            >
+                                <Scroll
+                                    activeClass="active"
+                                    to="welcome-section"
+                                    spy={true}
+                                    smooth={true}
+                                    offset={0}
+                                    duration={500}
+                                >
+                                    ABOUT
                                 </Scroll>
                             </Link>
                         </div>
@@ -69,8 +74,15 @@ const Header = () => {
                                 }`}
                                 onClick={() => handleActive("FEATURES")}
                             >
-                                <Scroll activeClass="active" to="why-choose-us-section" spy={true} smooth={true} offset={0} duration={1000}>
-                                        FEATURES
+                                <Scroll
+                                    activeClass="active"
+                                    to="why-choose-us-section"
+                                    spy={true}
+                                    smooth={true}
+                                    offset={0}
+                                    duration={1000}
+                                >
+                                    FEATURES
                                 </Scroll>
                             </Link>
                         </div>
@@ -84,8 +96,15 @@ const Header = () => {
                                 }`}
                                 onClick={() => handleActive("ROADMAP")}
                             >
-                                <Scroll activeClass="active" to="road-map-section" spy={true} smooth={true} offset={0} duration={1300}>
-                                        ROADMAP
+                                <Scroll
+                                    activeClass="active"
+                                    to="road-map-section"
+                                    spy={true}
+                                    smooth={true}
+                                    offset={0}
+                                    duration={1300}
+                                >
+                                    ROADMAP
                                 </Scroll>
                             </Link>
                         </div>
@@ -99,7 +118,6 @@ const Header = () => {
                                 }`}
                                 onClick={() => handleActive("STAKE")}
                             >
-
                                 STAKE
                             </Link>
                         </div>
@@ -113,8 +131,15 @@ const Header = () => {
                                 }`}
                                 onClick={() => handleActive("PLAY")}
                             >
-                                <Scroll activeClass="active" to="play-and-earn-section" spy={true} smooth={true} offset={0} duration={500}>
-                                        PLAY
+                                <Scroll
+                                    activeClass="active"
+                                    to="play-and-earn-section"
+                                    spy={true}
+                                    smooth={true}
+                                    offset={0}
+                                    duration={500}
+                                >
+                                    PLAY
                                 </Scroll>
                             </Link>
                         </div>
@@ -127,15 +152,18 @@ const Header = () => {
                                 }`}
                                 onClick={() => handleActive("Wallet Connect")}
                             >
-                                <Scroll activeClass="active" to="wallet-section" spy={true} smooth={true} offset={0} duration={1500}>
-                                        Wallet Connect
+                                <Scroll
+                                    activeClass="active"
+                                    to="wallet-section"
+                                    spy={true}
+                                    smooth={true}
+                                    offset={0}
+                                    duration={1500}
+                                >
+                                    Wallet Connect
                                 </Scroll>
                             </Link>
-
-
                         </div>
-
-
                     </div>
 
                     <div>
@@ -156,7 +184,7 @@ const Header = () => {
                     <div className="flex flex-wrap items-center justify-between mx-auto">
                         <Link href="/">
                             <h3 className="text-4xl font-EvilEmpire green-text">
-                                METADORADO
+                                Dorado
                             </h3>
                         </Link>
 
@@ -210,9 +238,16 @@ const Header = () => {
                                             active === "ABOUT" && "bg-[#27e124]"
                                         }`}
                                     >
-                                <Scroll activeClass="active" to="welcome-section" spy={true} smooth={true} offset={0} duration={500}>
-                                        ABOUT
-                                </Scroll>
+                                        <Scroll
+                                            activeClass="active"
+                                            to="welcome-section"
+                                            spy={true}
+                                            smooth={true}
+                                            offset={0}
+                                            duration={500}
+                                        >
+                                            ABOUT
+                                        </Scroll>
                                     </Link>
                                 </li>
 
@@ -224,9 +259,16 @@ const Header = () => {
                                             "bg-[#27e124]"
                                         }`}
                                     >
-                                <Scroll activeClass="active" to="why-choose-us-section" spy={true} smooth={true} offset={0} duration={1000}>
-                                        FEATURES
-                                </Scroll>
+                                        <Scroll
+                                            activeClass="active"
+                                            to="why-choose-us-section"
+                                            spy={true}
+                                            smooth={true}
+                                            offset={0}
+                                            duration={1000}
+                                        >
+                                            FEATURES
+                                        </Scroll>
                                     </Link>
                                 </li>
 
@@ -238,9 +280,16 @@ const Header = () => {
                                             "bg-[#27e124]"
                                         }`}
                                     >
-                                <Scroll activeClass="active" to="road-map-section" spy={true} smooth={true} offset={0} duration={1300}>
-                                        ROADMAP
-                                </Scroll>
+                                        <Scroll
+                                            activeClass="active"
+                                            to="road-map-section"
+                                            spy={true}
+                                            smooth={true}
+                                            offset={0}
+                                            duration={1300}
+                                        >
+                                            ROADMAP
+                                        </Scroll>
                                     </Link>
                                 </li>
 
@@ -262,9 +311,16 @@ const Header = () => {
                                             active === "PLAY" && "bg-[#27e124]"
                                         }`}
                                     >
-                                <Scroll activeClass="active" to="play-and-earn-section" spy={true} smooth={true} offset={0} duration={500}>
-                                        PLAY
-                                </Scroll>
+                                        <Scroll
+                                            activeClass="active"
+                                            to="play-and-earn-section"
+                                            spy={true}
+                                            smooth={true}
+                                            offset={0}
+                                            duration={500}
+                                        >
+                                            PLAY
+                                        </Scroll>
                                     </Link>
                                 </li>
 
@@ -276,9 +332,16 @@ const Header = () => {
                                             "bg-[#27e124]"
                                         }`}
                                     >
-                                <Scroll activeClass="active" to="wallet-section" spy={true} smooth={true} offset={0} duration={1500}>
-                                        Wallet Connect
-                                </Scroll>
+                                        <Scroll
+                                            activeClass="active"
+                                            to="wallet-section"
+                                            spy={true}
+                                            smooth={true}
+                                            offset={0}
+                                            duration={1500}
+                                        >
+                                            Wallet Connect
+                                        </Scroll>
                                     </Link>
                                 </li>
 

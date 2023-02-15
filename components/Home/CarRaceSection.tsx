@@ -17,7 +17,7 @@ const CarRaceSection = () => {
                     <span className="green-text">METAVERSE</span>
                 </h2>
 
-                <p className="text text-gray-300 text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
+                <p className="text text-white text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     <span className="font-bold green-text">COLLECT</span> &{" "}
                     <span className="font-bold green-text">TRADE</span> stunning
                     CARS and accelerate your way to the{" "}
@@ -48,7 +48,7 @@ const CarRaceSection = () => {
                                     COLLECT
                                 </h3>
 
-                                <p className="text text-center text-gray-300">
+                                <p className="text text-center text-white">
                                     OWN your DIGITAL DREAM CAR
                                 </p>
                             </div>
@@ -73,7 +73,7 @@ const CarRaceSection = () => {
                                     RACE
                                 </h3>
 
-                                <p className="text text-center text-gray-300">
+                                <p className="text text-center text-white">
                                     Complete for the TOP places in ACTION-Packed
                                     races
                                 </p>
@@ -99,7 +99,7 @@ const CarRaceSection = () => {
                                     EARN
                                 </h3>
 
-                                <p className="text text-center text-gray-300">
+                                <p className="text text-center text-white">
                                     Race Your Way To Victory & WINNTING REWARDS!
                                 </p>
                             </div>
@@ -124,7 +124,7 @@ const CarRaceSection = () => {
                                     UPGRADE
                                 </h3>
 
-                                <p className="text text-center text-gray-300">
+                                <p className="text text-center text-white">
                                     Level Up Your Car to BOOST ITS PERFORMANCE &
                                     VISUALS!
                                 </p>
@@ -150,7 +150,7 @@ const CarRaceSection = () => {
                                     TRADE
                                 </h3>
 
-                                <p className="text text-center text-gray-300">
+                                <p className="text text-center text-white">
                                     Exlpore Exciting Options To TRADE YOUR
                                     CARNFTS!
                                 </p>
