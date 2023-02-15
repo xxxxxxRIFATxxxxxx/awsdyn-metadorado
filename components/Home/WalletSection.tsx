@@ -35,7 +35,7 @@ const WalletSection = () => {
                                 </h3>
 
                                 <p className="text text-center pb-5">
-                                    Complete for the TOP{" "}
+                                    Complete for the top{" "}
                                     <br className="hidden xl:block" /> places
                                     holder
                                 </p>
@@ -69,7 +69,7 @@ const WalletSection = () => {
                                 </h3>
 
                                 <p className="text text-center pb-5">
-                                    Complete for the TOP{" "}
+                                    Complete for the top{" "}
                                     <br className="hidden xl:block" /> places
                                     holder
                                 </p>
@@ -103,7 +103,7 @@ const WalletSection = () => {
                                 </h3>
 
                                 <p className="text text-center pb-5">
-                                    Complete for the TOP{" "}
+                                    Complete for the top{" "}
                                     <br className="hidden xl:block" /> places
                                     holder
                                 </p>
@@ -137,7 +137,7 @@ const WalletSection = () => {
                                 </h3>
 
                                 <p className="text text-center pb-5">
-                                    Complete for the TOP{" "}
+                                    Complete for the top{" "}
                                     <br className="hidden xl:block" /> places
                                     holder
                                 </p>
@@ -171,7 +171,7 @@ const WalletSection = () => {
                                 </h3>
 
                                 <p className="text text-center pb-5">
-                                    Complete for the TOP{" "}
+                                    Complete for the top{" "}
                                     <br className="hidden xl:block" /> places
                                     holder
                                 </p>
@@ -205,7 +205,7 @@ const WalletSection = () => {
                                 </h3>
 
                                 <p className="text text-center pb-5">
-                                    Complete for the TOP{" "}
+                                    Complete for the top{" "}
                                     <br className="hidden xl:block" /> places
                                     holder
                                 </p>

@@ -119,7 +119,7 @@ const index = () => {
                                     </div>
 
                                     <div className="text-center lg:text-right text-white">
-                                        Handicap
+                                        Hardcap
                                     </div>
                                 </div>
                             </div>
@@ -236,7 +236,7 @@ const index = () => {
                                 </div>
 
                                 <div className="text-center lg:text-right text-white">
-                                    Handicap
+                                    Hardcap
                                 </div>
                             </div>
                         </div>

@@ -3,10 +3,10 @@ const CombatGameSection = () => {
         <div className="combat-game-section" id="combat-game-section">
             <div className="custom-container">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16">
-                    <div>
+                    <div className="combat-game-icon-container">
                         <img
-                            className="w-full mx-auto"
-                            src="/images/combat-game-icon.svg"
+                            className="w-full mx-auto rounded-[20px]"
+                            src="/images/combat-game-icon.png"
                             alt="image"
                         />
                     </div>

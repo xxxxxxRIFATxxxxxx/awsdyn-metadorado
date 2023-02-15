@@ -5,13 +5,13 @@ const HeroSection = () => {
     return (
         <div className="hero-section" id="hero-section">
             {/* For Web */}
-            <div className="custom-container hidden lg:block">
+            <div className="hidden lg:block">
                 <div className="relative">
-                    <div className="absolute w-[90%] z-10 right-0 left-0 top-10 m-auto">
+                    <div className="absolute w-[90%] z-10 right-0 left-0 top-5 m-auto">
                         <Header />
                     </div>
 
-                    <div className="video-box lg:rounded-0 xl:rounded-[50px]">
+                    <div className="video-box lg:rounded-0">
                         <video width="100%" autoPlay loop muted>
                             <source
                                 src="/images/hero-section-video.mp4"

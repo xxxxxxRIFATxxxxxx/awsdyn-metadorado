@@ -10,11 +10,11 @@ const Footer = () => {
                             Dorado
                         </h3>
 
-                        <p className="text text-white text-center lg:text-start pb-8">
+                        {/* <p className="text text-white text-center lg:text-start pb-8">
                             We are the best way to check the{" "}
                             <br className="hidden lg:block" /> rarity of NFT
                             collection.
-                        </p>
+                        </p> */}
 
                         <div className="text-center lg:text-start">
                             <Link href="/">

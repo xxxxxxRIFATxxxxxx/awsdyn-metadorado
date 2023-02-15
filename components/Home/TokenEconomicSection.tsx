@@ -28,7 +28,7 @@ const TokenEconomicSection = () => {
                     <div>
                         <img
                             className="w-full mx-auto"
-                            src="/images/token-economic-icon.svg"
+                            src="/images/token-economic-icon.png"
                             alt="image"
                         />
                     </div>

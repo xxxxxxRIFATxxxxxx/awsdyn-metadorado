@@ -49,7 +49,7 @@ const CarRaceSection = () => {
                                 </h3>
 
                                 <p className="text text-center text-white">
-                                    OWN your DIGITAL DREAM CAR
+                                    Own your digital dream car
                                 </p>
                             </div>
                         </div>
@@ -74,7 +74,7 @@ const CarRaceSection = () => {
                                 </h3>
 
                                 <p className="text text-center text-white">
-                                    Complete for the TOP places in ACTION-Packed
+                                    complete for the top places in action-packed
                                     races
                                 </p>
                             </div>
@@ -100,7 +100,7 @@ const CarRaceSection = () => {
                                 </h3>
 
                                 <p className="text text-center text-white">
-                                    Race Your Way To Victory & WINNTING REWARDS!
+                                    Race your way to victory & winning rewards!
                                 </p>
                             </div>
                         </div>
@@ -125,8 +125,8 @@ const CarRaceSection = () => {
                                 </h3>
 
                                 <p className="text text-center text-white">
-                                    Level Up Your Car to BOOST ITS PERFORMANCE &
-                                    VISUALS!
+                                    Level up your car to boost its performance &
+                                    visuals!
                                 </p>
                             </div>
                         </div>
@@ -151,8 +151,8 @@ const CarRaceSection = () => {
                                 </h3>
 
                                 <p className="text text-center text-white">
-                                    Exlpore Exciting Options To TRADE YOUR
-                                    CARNFTS!
+                                    Exlpore exciting options to trade your car
+                                    nfts!
                                 </p>
                             </div>
                         </div>

@@ -61,7 +61,7 @@ const PlayAndEarnSection = () => {
                         >
                             <img
                                 className="w-full pb-5"
-                                src="/images/play-and-earn-img-2.svg"
+                                src="/images/play-and-earn-img-2.png"
                                 alt="image"
                             />
 
