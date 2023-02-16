@@ -79,7 +79,7 @@ const CarbonCreditSection = () => {
 
                     <div>
                         <img
-                            className="w-full mx-auto"
+                            className="w-4/5 ml-auto"
                             src="/images/carbon-credit-icon.svg"
                             alt="image"
                         />
