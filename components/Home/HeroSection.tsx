@@ -14,7 +14,7 @@ const HeroSection = () => {
                     <div className="video-box lg:rounded-0">
                         <video width="100%" autoPlay loop muted>
                             <source
-                                src="/images/hero-section-video.mp4"
+                                src="/images/hero-section-video.webm"
                                 type="video/mp4"
                             />
                             Your browser does not support the video tag.
