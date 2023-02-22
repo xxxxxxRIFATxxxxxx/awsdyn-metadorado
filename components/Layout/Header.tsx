@@ -180,7 +180,7 @@ const Header = () => {
 
             {/* For Tab And Mobile */}
             <div className="block lg:hidden">
-                <nav className="bg-white py-2.5 w-full border-b border-gray-200">
+                <nav className="py-2.5 w-full">
                     <div className="flex flex-wrap items-center justify-between mx-auto">
                         <Link href="/">
                             <h3 className="text-4xl font-EvilEmpire green-text">

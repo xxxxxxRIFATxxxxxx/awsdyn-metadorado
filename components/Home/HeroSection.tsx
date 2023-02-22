@@ -1,11 +1,14 @@
 import Link from "next/link";
+import { useState } from "react";
 import Header from "../Layout/Header";
 
 const HeroSection = () => {
+    const [videoLoaded, setVideoLoaded] = useState(true);
+
     return (
         <div className="hero-section" id="hero-section">
             {/* For Web */}
-            <div className="hidden lg:block">
+            {/* <div className="hidden lg:block">
                 <div className="relative">
                     <div className="absolute w-[90%] z-10 right-0 left-0 top-5 m-auto">
                         <Header />
@@ -48,10 +51,10 @@ const HeroSection = () => {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
             {/* For Tab And Mobile */}
-            <div className="block lg:hidden">
+            {/* <div className="block lg:hidden">
                 <div className="bg-white">
                     <div className="custom-container-x">
                         <Header />
@@ -85,6 +88,62 @@ const HeroSection = () => {
                                 </Link>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div> */}
+
+            <div>
+                <div className="absolute w-[90%] z-10 right-0 left-0 lg:top-5 m-auto">
+                    <Header />
+                </div>
+
+                <div className={`${videoLoaded ? "block" : "hidden"}`}>
+                    <img
+                        className="w-full lg:h-screen"
+                        src="/images/hero-section-icon.png"
+                        alt="image"
+                    />
+                </div>
+
+                <video
+                    width="100%"
+                    autoPlay
+                    loop
+                    muted
+                    onLoadedData={() => setVideoLoaded(false)}
+                    className=""
+                >
+                    <source
+                        src="/images/hero-section-video.webm"
+                        type="video/mp4"
+                    />
+                    Your browser does not support the video tag.
+                </video>
+
+                <div className="py-10 lg:absolute m-auto h-fit right-0 left-0 bottom-0 top-[56vh]">
+                    <h1 className="heading-1 font-EvilEmpire text-white text-green-shadow text-center mb-3">
+                        <p className="mb-3">REFORMING</p>
+                        <p>THE GAMING INDUSTRY</p>
+                    </h1>
+
+                    <div className="flex items-center justify-center">
+                        <Link href={"/#play-and-earn-section"}>
+                            <img
+                                className="w-full"
+                                src="/images/play-btn.svg"
+                                alt="image"
+                            />
+                        </Link>
+
+                        <div className="p-2"></div>
+
+                        <Link href={"/buy"}>
+                            <img
+                                className="w-full"
+                                src="/images/stake-now-btn.svg"
+                                alt="image"
+                            />
+                        </Link>
                     </div>
                 </div>
             </div>

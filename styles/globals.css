@@ -4,6 +4,10 @@
 @tailwind utilities;
 
 /* Common CSS */
+.font-EvilEmpire {
+    font-family: "Metal Mania", cursive;
+}
+
 :root {
     --green: #27e124;
     --dark-green: #002007;
@@ -43,7 +47,7 @@ body {
     position: relative;
 }
 
-@layer base {
+/* @layer base {
     @font-face {
         font-family: "Evil Empire";
         src: url("/fonts/evil-empire.woff2") format("woff2");
@@ -51,7 +55,7 @@ body {
         font-display: "swap";
         font-style: normal;
     }
-}
+} */
 
 @layer components {
     .custom-container {
