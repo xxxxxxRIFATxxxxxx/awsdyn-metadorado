@@ -6,7 +6,7 @@ const CombatGameSection = () => {
                     <div className="combat-game-icon-container">
                         <img
                             className="w-full mx-auto rounded-[20px]"
-                            src="/images/combat-game-icon.png"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/combat-game-icon.png"
                             alt="image"
                         />
                     </div>

@@ -6,7 +6,7 @@ const IconSection = () => {
                     <div>
                         <img
                             className="w-2/4 mx-auto pb-5"
-                            src="/images/icon-img-1.svg"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/icon-img-1.svg"
                             alt="image"
                         />
 
@@ -19,7 +19,7 @@ const IconSection = () => {
                     <div>
                         <img
                             className="w-2/4 mx-auto pb-5"
-                            src="/images/icon-img-2.svg"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/icon-img-2.svg"
                             alt="image"
                         />
 
@@ -32,7 +32,7 @@ const IconSection = () => {
                     <div>
                         <img
                             className="w-2/4 mx-auto pb-5"
-                            src="/images/icon-img-3.svg"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/icon-img-3.svg"
                             alt="image"
                         />
 
@@ -45,7 +45,7 @@ const IconSection = () => {
                     <div>
                         <img
                             className="w-2/4 mx-auto pb-5"
-                            src="/images/icon-img-4.svg"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/icon-img-4.svg"
                             alt="image"
                         />
 
@@ -59,7 +59,7 @@ const IconSection = () => {
                     <div>
                         <img
                             className="w-2/4 mx-auto pb-5"
-                            src="/images/icon-img-5.svg"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/icon-img-5.svg"
                             alt="image"
                         />
 

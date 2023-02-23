@@ -170,7 +170,7 @@ const Header = () => {
                         <Link href={"/buy"}>
                             <img
                                 className="w-full"
-                                src="/images/buy-btn.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/buy-btn.svg"
                                 alt="image"
                             />
                         </Link>

@@ -19,13 +19,13 @@ const WalletSection = () => {
                         <div className="flip-box">
                             <img
                                 className="w-1/3 mx-auto pb-1 flip-img"
-                                src="/images/shiba-icon.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/shiba-icon.svg"
                                 alt="image"
                             />
 
                             <img
                                 className="w-3/4 mx-auto pb-6"
-                                src="/images/fire.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/fire.svg"
                                 alt="image"
                             />
 
@@ -42,7 +42,7 @@ const WalletSection = () => {
 
                                 <img
                                     className="w-3/5 mx-auto"
-                                    src="/images/buy-btn.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/buy-btn.svg"
                                     alt="image"
                                 />
                             </div>
@@ -53,13 +53,13 @@ const WalletSection = () => {
                         <div>
                             <img
                                 className="w-1/3 mx-auto pb-1 flip-img"
-                                src="/images/binance-icon.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/binance-icon.svg"
                                 alt="image"
                             />
 
                             <img
                                 className="w-3/4 mx-auto pb-6"
-                                src="/images/fire.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/fire.svg"
                                 alt="image"
                             />
 
@@ -76,7 +76,7 @@ const WalletSection = () => {
 
                                 <img
                                     className="w-3/5 mx-auto"
-                                    src="/images/buy-btn.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/buy-btn.svg"
                                     alt="image"
                                 />
                             </div>
@@ -87,13 +87,13 @@ const WalletSection = () => {
                         <div>
                             <img
                                 className="w-1/3 mx-auto pb-1 rounded-full flip-img"
-                                src="/images/formatic-logo.png"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/formatic-logo.png"
                                 alt="image"
                             />
 
                             <img
                                 className="w-3/4 mx-auto pb-6"
-                                src="/images/fire.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/fire.svg"
                                 alt="image"
                             />
 
@@ -110,7 +110,7 @@ const WalletSection = () => {
 
                                 <img
                                     className="w-3/5 mx-auto"
-                                    src="/images/buy-btn.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/buy-btn.svg"
                                     alt="image"
                                 />
                             </div>
@@ -121,13 +121,13 @@ const WalletSection = () => {
                         <div>
                             <img
                                 className="w-1/3 mx-auto pb-1 rounded-full flip-img"
-                                src="/images/autherum-logo.png"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/autherum-logo.png"
                                 alt="image"
                             />
 
                             <img
                                 className="w-3/4 mx-auto pb-6"
-                                src="/images/fire.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/fire.svg"
                                 alt="image"
                             />
 
@@ -144,7 +144,7 @@ const WalletSection = () => {
 
                                 <img
                                     className="w-3/5 mx-auto"
-                                    src="/images/buy-btn.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/buy-btn.svg"
                                     alt="image"
                                 />
                             </div>
@@ -155,13 +155,13 @@ const WalletSection = () => {
                         <div>
                             <img
                                 className="w-1/3 mx-auto pb-1 rounded-full flip-img"
-                                src="/images/coinbase-logo.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/coinbase-logo.svg"
                                 alt="image"
                             />
 
                             <img
                                 className="w-3/4 mx-auto pb-6"
-                                src="/images/fire.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/fire.svg"
                                 alt="image"
                             />
 
@@ -178,7 +178,7 @@ const WalletSection = () => {
 
                                 <img
                                     className="w-3/5 mx-auto"
-                                    src="/images/buy-btn.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/buy-btn.svg"
                                     alt="image"
                                 />
                             </div>
@@ -189,13 +189,13 @@ const WalletSection = () => {
                         <div>
                             <img
                                 className="w-1/3 mx-auto pb-1 rounded-full flip-img"
-                                src="/images/portis logo.png"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/portis%20logo.png"
                                 alt="image"
                             />
 
                             <img
                                 className="w-3/4 mx-auto pb-6"
-                                src="/images/fire.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/fire.svg"
                                 alt="image"
                             />
 
@@ -212,7 +212,7 @@ const WalletSection = () => {
 
                                 <img
                                     className="w-3/5 mx-auto"
-                                    src="/images/buy-btn.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/buy-btn.svg"
                                     alt="image"
                                 />
                             </div>

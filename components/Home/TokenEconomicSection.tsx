@@ -28,7 +28,7 @@ const TokenEconomicSection = () => {
                     <div>
                         <img
                             className="w-4/5 ml-auto"
-                            src="/images/token-economic-icon.svg"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/token-economic-icon.svg"
                             alt="image"
                         />
                     </div>

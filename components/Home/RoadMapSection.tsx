@@ -25,7 +25,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -45,7 +45,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -65,7 +65,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -85,7 +85,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -105,7 +105,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -125,7 +125,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -145,7 +145,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -155,8 +155,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text-sm xl:text-xl text-white text-center">
-                                        Dorado (MTD) <br /> Token Website{" "}
-                                        <br />
+                                        Dorado (MTD) <br /> Token Website <br />
                                         Sale
                                     </p>
                                 </div>
@@ -167,7 +166,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -188,7 +187,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -209,7 +208,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -231,7 +230,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -241,8 +240,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text-sm xl:text-xl text-white text-center">
-                                        Dorado (MTD) <br /> Token Games{" "}
-                                        <br />
+                                        Dorado (MTD) <br /> Token Games <br />
                                         Launch
                                     </p>
                                 </div>
@@ -253,7 +251,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -273,7 +271,7 @@ const RoadMapSection = () => {
                     <div className="absolute top-10 w-full">
                         <img
                             className="w-full"
-                            src="/images/road-map-line.svg"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-line.svg"
                             alt="image"
                         />
                     </div>
@@ -292,7 +290,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -312,7 +310,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -332,7 +330,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -352,7 +350,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -372,7 +370,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -392,7 +390,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -412,7 +410,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -422,8 +420,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        Dorado (MTD) <br /> Token Website{" "}
-                                        <br />
+                                        Dorado (MTD) <br /> Token Website <br />
                                         Sale
                                     </p>
                                 </div>
@@ -434,7 +431,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -455,7 +452,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -476,7 +473,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -498,7 +495,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -508,8 +505,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        Dorado (MTD) <br /> Token Games{" "}
-                                        <br />
+                                        Dorado (MTD) <br /> Token Games <br />
                                         Launch
                                     </p>
                                 </div>
@@ -520,7 +516,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -551,7 +547,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -571,7 +567,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -591,7 +587,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -611,7 +607,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -631,7 +627,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -651,7 +647,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -671,7 +667,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -681,8 +677,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        Dorado (MTD) <br /> Token Website{" "}
-                                        <br />
+                                        Dorado (MTD) <br /> Token Website <br />
                                         Sale
                                     </p>
                                 </div>
@@ -693,7 +688,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -714,7 +709,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -735,7 +730,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -757,7 +752,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 
@@ -767,8 +762,7 @@ const RoadMapSection = () => {
                                     </h2>
 
                                     <p className="text text-white text-center">
-                                        Dorado (MTD) <br /> Token Games{" "}
-                                        <br />
+                                        Dorado (MTD) <br /> Token Games <br />
                                         Launch
                                     </p>
                                 </div>
@@ -779,7 +773,7 @@ const RoadMapSection = () => {
                             <div className="relative cursor-pointer">
                                 <img
                                     className="w-full"
-                                    src="/images/road-map-card.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-card.svg"
                                     alt="image"
                                 />
 

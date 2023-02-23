@@ -31,7 +31,7 @@ const PlayAndEarnSection = () => {
                         >
                             <img
                                 className="w-full pb-5"
-                                src="/images/play-and-earn-img-1.png"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/play-and-earn-img-1.png"
                                 alt="image"
                             />
 
@@ -61,7 +61,7 @@ const PlayAndEarnSection = () => {
                         >
                             <img
                                 className="w-full pb-5"
-                                src="/images/play-and-earn-img-2.png"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/play-and-earn-img-2.png"
                                 alt="image"
                             />
 
@@ -96,7 +96,7 @@ const PlayAndEarnSection = () => {
                         >
                             <img
                                 className="w-full pb-5"
-                                src="/images/play-and-earn-img-3.png"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/play-and-earn-img-3.png"
                                 alt="image"
                             />
 

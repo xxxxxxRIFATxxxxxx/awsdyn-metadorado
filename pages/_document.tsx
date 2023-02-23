@@ -10,10 +10,13 @@ export default function Document() {
                 <link
                     href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap"
                     rel="stylesheet"
-                />
+                ></link>
 
                 {/* Favicon */}
-                <link rel="icon" href="/images/logo.svg" />
+                <link
+                    rel="icon"
+                    href="https://moonlit-snickerdoodle-f90af8.netlify.app/images//logo.svg"
+                />
 
                 {/* Font Awesome */}
                 <script

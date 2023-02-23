@@ -79,8 +79,8 @@ const CarbonCreditSection = () => {
 
                     <div>
                         <img
-                            className="w-4/5 ml-auto"
-                            src="/images/carbon-credit-icon.svg"
+                            className="w-4/5 mx-auto lg:ml-auto"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/carbon-credit-icon.svg"
                             alt="image"
                         />
                     </div>

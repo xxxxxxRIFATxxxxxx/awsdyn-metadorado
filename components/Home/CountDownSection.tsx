@@ -53,7 +53,7 @@ const CountDownSection = () => {
                             <Link href="/buy">
                                 <img
                                     className="w-full pr-4"
-                                    src="/images/buy-tokens-btn.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/buy-tokens-btn.svg"
                                     alt="image"
                                 />
                             </Link>
@@ -61,7 +61,7 @@ const CountDownSection = () => {
                             <Link href="/#white-paper-section">
                                 <img
                                     className="w-full"
-                                    src="/images/white-paper-btn.svg"
+                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/white-paper-btn.svg"
                                     alt="image"
                                 />
                             </Link>

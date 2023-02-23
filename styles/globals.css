@@ -47,15 +47,15 @@ body {
     position: relative;
 }
 
-/* @layer base {
-    @font-face {
+@layer base {
+    /* @font-face {
         font-family: "Evil Empire";
         src: url("/fonts/evil-empire.woff2") format("woff2");
         font-weight: 400;
         font-display: "swap";
         font-style: normal;
-    }
-} */
+    } */
+}
 
 @layer components {
     .custom-container {
@@ -87,9 +87,81 @@ body {
     }
 }
 
+/* Loading Screen */
+.loading-screen {
+    height: 100vh;
+    background: #111;
+    z-index: 30;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.wrapper {
+    position: absolute;
+    width: 200px;
+    height: 2px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+
+.loader {
+    height: 100%;
+    display: flex;
+    transform: translateZ(0);
+}
+.loader div {
+    flex: 1;
+    background: var(--green);
+    animation: go 0.8s infinite alternate ease;
+    box-shadow: 0 0 20px var(--green);
+}
+.loader div:nth-child(1) {
+    animation-delay: -0.72s;
+}
+.loader div:nth-child(2) {
+    animation-delay: -0.64s;
+}
+.loader div:nth-child(3) {
+    animation-delay: -0.56s;
+}
+.loader div:nth-child(4) {
+    animation-delay: -0.48s;
+}
+.loader div:nth-child(5) {
+    animation-delay: -0.4s;
+}
+.loader div:nth-child(6) {
+    animation-delay: -0.32s;
+}
+.loader div:nth-child(7) {
+    animation-delay: -0.24s;
+}
+.loader div:nth-child(8) {
+    animation-delay: -0.16s;
+}
+.loader div:nth-child(9) {
+    animation-delay: -0.08s;
+}
+.loader div:nth-child(10) {
+    animation-delay: 0s;
+}
+
+@keyframes go {
+    100% {
+        background: transparent;
+        flex: 10;
+        box-shadow: 0 0 0 transparent;
+    }
+}
+
 /* Header Section */
 .header-section {
-    background-image: url("/images/header-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/header-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -105,25 +177,16 @@ body {
     background-color: var(--dark-green);
 }
 
-.video-box {
-    overflow: hidden;
-    height: 100vh;
-}
-
-.title-box {
-    position: absolute;
-    right: 0;
-    left: 0;
-    top: 56vh;
-    bottom: 0;
-    margin: auto;
-    height: fit-content;
+.hero-section-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 /* Welcome Section */
 .welcome-section {
     background-color: var(--dark-green);
-    background-image: url("/images/welcome-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/welcome-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -132,7 +195,7 @@ body {
 /* Play And Earn Section */
 .play-and-earn-section {
     background-color: var(--dark-green);
-    background-image: url("/images/play-and-earn-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/play-and-earn-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -153,7 +216,7 @@ body {
 /* Car Race Section */
 .car-race-section {
     background-color: var(--dark-green);
-    background-image: url("/images/car-race-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -182,7 +245,7 @@ body {
 /* Icon Section */
 .icon-section {
     background-color: var(--dark-green);
-    background-image: url("/images/icon-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/icon-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -191,7 +254,7 @@ body {
 /* Count Down Section */
 .count-down-section {
     background-color: var(--dark-green);
-    background-image: url("/images/count-down-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/count-down-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -222,7 +285,7 @@ body {
 /* Carbon Credit Section */
 .carbon-credit-section {
     background-color: var(--dark-green);
-    background-image: url("/images/carbon-credit-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/carbon-credit-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -231,7 +294,7 @@ body {
 /* Combat Game Section */
 .combat-game-section {
     background-color: var(--dark-green);
-    background-image: url("/images/combat-game-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/combat-game-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -245,7 +308,7 @@ body {
 /* White Paper Section */
 .white-paper-section {
     background-color: var(--dark-green);
-    background-image: url("/images/white-paper-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/white-paper-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -254,7 +317,7 @@ body {
 /* Why Choose Us Section */
 .why-choose-us-section {
     background-color: var(--dark-green);
-    background-image: url("/images/why-choose-us-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/why-choose-us-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -309,7 +372,7 @@ body {
 /* Token Economic Section */
 .token-economic-section {
     background-color: var(--dark-green);
-    background-image: url("/images/token-economic-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/token-economic-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -318,7 +381,7 @@ body {
 /* Token Distribution Section */
 .token-distribution-section {
     background-color: var(--dark-green);
-    background-image: url("/images/token-distribution-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/token-distribution-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -327,7 +390,7 @@ body {
 /* Road Map Section */
 .road-map-section {
     background-color: var(--dark-green);
-    background-image: url("/images/road-map-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/road-map-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -336,7 +399,7 @@ body {
 /* Wallet Section */
 .wallet-section {
     background-color: var(--dark-green);
-    background-image: url("/images/wallet-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/wallet-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -352,7 +415,7 @@ body {
 /* Contact Section */
 .contact-section {
     background-color: var(--dark-green);
-    background-image: url("/images/contact-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/contact-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -369,7 +432,7 @@ body {
 
 .count-down-box {
     background-color: var(--dark-green);
-    background-image: url("/images/count-down-section-bg.svg");
+    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/count-down-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

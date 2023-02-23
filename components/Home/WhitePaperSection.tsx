@@ -74,7 +74,7 @@ const WhitePaperSection = () => {
                     <div>
                         <img
                             className="w-full"
-                            src="/images/white-paper-icon.svg"
+                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/white-paper-icon.svg"
                             alt="image"
                         />
                     </div>
