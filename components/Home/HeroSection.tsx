@@ -77,9 +77,9 @@ const HeroSection = () => {
                 <Header />
             </div>
 
-            <div className="absolute m-auto bottom-0 left-0 right-0 top-[10vh] md:top-[23vh] lg:top-[66vh]">
+            <div className="absolute m-auto bottom-0 left-0 right-0 top-[20vh] md:top-[23vh] lg:top-[66vh]">
                 <div>
-                    <h1 className="text-2xl md:text-5xl lg:heading-1 font-EvilEmpire text-white text-green-shadow text-center mb-3">
+                    <h1 className="text-4xl md:text-5xl lg:heading-1 font-EvilEmpire text-white text-green-shadow text-center mb-3">
                         <p className="mb-0 lg:mb-3">REFORMING</p>
                         <p>THE GAMING INDUSTRY</p>
                     </h1>
@@ -87,7 +87,7 @@ const HeroSection = () => {
                     <div className="flex items-center justify-center">
                         <Link href={"/#play-and-earn-section"}>
                             <img
-                                className="w-[80px] md:w-full"
+                                className="w-[120px] md:w-full lg:w-[180px]"
                                 src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/play-btn.svg"
                                 alt="image"
                             />
@@ -97,7 +97,7 @@ const HeroSection = () => {
 
                         <Link href={"/buy"}>
                             <img
-                                className="w-[80px] md:w-full"
+                                className="w-[120px] md:w-full lg:w-[180px]"
                                 src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/stake-now-btn.svg"
                                 alt="image"
                             />
