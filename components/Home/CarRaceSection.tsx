@@ -39,7 +39,7 @@ const CarRaceSection = () => {
                         >
                             <img
                                 className="w-full pb-5"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-1.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-1.png"
                                 alt="image"
                             />
 
@@ -64,7 +64,7 @@ const CarRaceSection = () => {
                         >
                             <img
                                 className="w-full pb-5"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-2.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-2.png"
                                 alt="image"
                             />
 
@@ -90,7 +90,7 @@ const CarRaceSection = () => {
                         >
                             <img
                                 className="w-full pb-5"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-3.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-3.png"
                                 alt="image"
                             />
 
@@ -115,7 +115,7 @@ const CarRaceSection = () => {
                         >
                             <img
                                 className="w-full pb-5"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-4.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-4.png"
                                 alt="image"
                             />
 
@@ -141,7 +141,7 @@ const CarRaceSection = () => {
                         >
                             <img
                                 className="w-full pb-5"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-5.svg"
+                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/car-race-img-5.png"
                                 alt="image"
                             />
 
