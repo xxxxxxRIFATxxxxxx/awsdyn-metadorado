@@ -9,75 +9,67 @@ const HeroSection = () => {
 
     return (
         <div className="hero-section player-wrapper" id="hero-section">
-            <div className={`${showLoader ? "block" : "hidden"}`}>
-                <LoadingScreen />
+            {/* For Web */}
+            <div className="video-container hidden lg:block">
+                <iframe src="https://www.youtube.com/embed/wObg056Dpw4?vq=hd1080&controls=0&autoplay=1&mute=1&playsinline=1&playlist=wObg056Dpw4&loop=1"></iframe>
             </div>
 
-            {/* For Web */}
-            <ReactPlayer
-                className="hidden lg:block player-wrapper"
-                url="https://spectacular-cucurucho-f4568c.netlify.app/images/hero-section-video.mp4"
-                playing
-                muted
-                loop
-                width="100%"
-                height="100%"
-                preload="none"
-                config={{
-                    file: {
-                        attributes: {
-                            poster: "https://moonlit-snickerdoodle-f90af8.netlify.app/images/hero-section-icon.png",
-                        },
-                    },
-                }}
-                onReady={() => setShowLoader(false)}
-            />
-
             {/* For Tablet */}
-            <ReactPlayer
-                className="hidden md:block lg:hidden player-wrapper"
-                url="https://spectacular-cucurucho-f4568c.netlify.app/images/hero-section-video-tablet.mp4"
-                playing
-                muted
-                loop
-                width="100%"
-                height="100%"
-                preload="none"
-                config={{
-                    file: {
-                        attributes: {
-                            poster: "https://moonlit-snickerdoodle-f90af8.netlify.app/images/hero-section-icon.png",
+            <div className="hidden md:block lg:hidden">
+                <div className={`${showLoader ? "block" : "hidden"}`}>
+                    <LoadingScreen />
+                </div>
+                <ReactPlayer
+                    className="player-wrapper"
+                    url="https://spectacular-cucurucho-f4568c.netlify.app/images/hero-section-video-tablet.mp4"
+                    playing
+                    muted
+                    loop
+                    width="100%"
+                    height="100%"
+                    preload="none"
+                    config={{
+                        file: {
+                            attributes: {
+                                poster: "https://moonlit-snickerdoodle-f90af8.netlify.app/images/hero-section-icon.png",
+                            },
                         },
-                    },
-                }}
-                onReady={() => setShowLoader(false)}
-            />
+                    }}
+                    onReady={() => setShowLoader(false)}
+                />
+            </div>
 
             {/* For Mobile */}
-            <ReactPlayer
-                className="block md:hidden player-wrapper"
-                url="https://spectacular-cucurucho-f4568c.netlify.app/images/hero-section-video-mobile.mp4"
-                playing
-                muted
-                loop
-                width="100%"
-                height="100%"
-                preload="none"
-                config={{
-                    file: {
-                        attributes: {
-                            poster: "https://moonlit-snickerdoodle-f90af8.netlify.app/images/hero-section-icon.png",
-                        },
-                    },
-                }}
-                onReady={() => setShowLoader(false)}
-            />
+            <div className="block md:hidden">
+                <div className={`${showLoader ? "block" : "hidden"}`}>
+                    <LoadingScreen />
+                </div>
 
-            <div className="absolute top-0 w-full px-5 md:px-10 z-20">
+                <ReactPlayer
+                    className="player-wrapper"
+                    url="https://spectacular-cucurucho-f4568c.netlify.app/images/hero-section-video-mobile.mp4"
+                    playing
+                    muted
+                    loop
+                    width="100%"
+                    height="100%"
+                    preload="none"
+                    config={{
+                        file: {
+                            attributes: {
+                                poster: "https://moonlit-snickerdoodle-f90af8.netlify.app/images/hero-section-icon.png",
+                            },
+                        },
+                    }}
+                    onReady={() => setShowLoader(false)}
+                />
+            </div>
+
+            <div className="absolute top-0 lg:top-4 w-full px-5 md:px-10 z-20">
                 <Header />
             </div>
 
-            <div className="absolute m-auto bottom-0 left-0 right-0 top-[20vh] md:top-[23vh] lg:top-[66vh]">
+            <div className="absolute m-auto bottom-0 left-0 right-0 top-[20vh] md:top-[26vh] lg:top-[66vh]">
                 <div>
                     <h1 className="text-4xl md:text-5xl lg:heading-1 font-EvilEmpire text-white text-green-shadow text-center mb-3">
                         <p className="mb-0 lg:mb-3">REFORMING</p>

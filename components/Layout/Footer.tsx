@@ -105,7 +105,7 @@ const Footer = () => {
                                 className="text text-white hover:text-[#27e124]"
                                 href="/#count-down-section"
                             >
-                                Scoholarship
+                                Scholarship
                             </Link>
                         </div>
 

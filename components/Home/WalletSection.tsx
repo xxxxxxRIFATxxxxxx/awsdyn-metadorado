@@ -14,12 +14,12 @@ const WalletSection = () => {
                     cryptocurrencies and other digital assets.
                 </p>
                 {/* .flip-img class added  */}
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6 gap-8 lg:gap-16">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 xl:grid-cols-5 gap-8 lg:gap-16">
                     <Link href="/buy">
                         <div className="flip-box">
                             <img
-                                className="w-1/3 mx-auto pb-1 flip-img"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/shiba-icon.svg"
+                                className="w-1/3 mx-auto pb-1 flip-img rounded-full"
+                                src="/images/meta-mask-wallet.png"
                                 alt="image"
                             />
 
@@ -50,10 +50,10 @@ const WalletSection = () => {
                     </Link>
 
                     <Link href="/buy">
-                        <div>
+                        <div className="flip-box">
                             <img
                                 className="w-1/3 mx-auto pb-1 flip-img"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/binance-icon.svg"
+                                src="/images/dorado-wallet.png"
                                 alt="image"
                             />
 
@@ -65,7 +65,7 @@ const WalletSection = () => {
 
                             <div>
                                 <h3 className="heading-3 text-center text-white font-EvilEmpire pb-2">
-                                    BINANCE
+                                    Dorado Wallet
                                 </h3>
 
                                 <p className="text text-center pb-5">
@@ -84,10 +84,10 @@ const WalletSection = () => {
                     </Link>
 
                     <Link href="/buy">
-                        <div>
+                        <div className="flip-box">
                             <img
-                                className="w-1/3 mx-auto pb-1 rounded-full flip-img"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/formatic-logo.png"
+                                className="w-1/3 mx-auto pb-1 flip-img"
+                                src="/images/trust-wallet.png"
                                 alt="image"
                             />
 
@@ -99,7 +99,7 @@ const WalletSection = () => {
 
                             <div>
                                 <h3 className="heading-3 text-center text-white font-EvilEmpire pb-2">
-                                    FORMATIC
+                                    Trust Wallet
                                 </h3>
 
                                 <p className="text text-center pb-5">
@@ -118,10 +118,10 @@ const WalletSection = () => {
                     </Link>
 
                     <Link href="/buy">
-                        <div>
+                        <div className="flip-box">
                             <img
-                                className="w-1/3 mx-auto pb-1 rounded-full flip-img"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/autherum-logo.png"
+                                className="w-1/3 mx-auto pb-1 flip-img"
+                                src="/images/pancake-swap-wallet.png"
                                 alt="image"
                             />
 
@@ -133,7 +133,7 @@ const WalletSection = () => {
 
                             <div>
                                 <h3 className="heading-3 text-center text-white font-EvilEmpire pb-2">
-                                    AUTHERUM
+                                    Pancake Swap
                                 </h3>
 
                                 <p className="text text-center pb-5">
@@ -152,10 +152,10 @@ const WalletSection = () => {
                     </Link>
 
                     <Link href="/buy">
-                        <div>
+                        <div className="flip-box">
                             <img
-                                className="w-1/3 mx-auto pb-1 rounded-full flip-img"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/coinbase-logo.svg"
+                                className="w-1/3 mx-auto pb-1 flip-img rounded-full"
+                                src="/images/polygon-wallet.png"
                                 alt="image"
                             />
 
@@ -167,41 +167,7 @@ const WalletSection = () => {
 
                             <div>
                                 <h3 className="heading-3 text-center text-white font-EvilEmpire pb-2">
-                                    COINBASE
-                                </h3>
-
-                                <p className="text text-center pb-5">
-                                    Complete for the top{" "}
-                                    <br className="hidden xl:block" /> places
-                                    holder
-                                </p>
-
-                                <img
-                                    className="w-3/5 mx-auto"
-                                    src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/buy-btn.svg"
-                                    alt="image"
-                                />
-                            </div>
-                        </div>
-                    </Link>
-
-                    <Link href="/buy">
-                        <div>
-                            <img
-                                className="w-1/3 mx-auto pb-1 rounded-full flip-img"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/portis%20logo.png"
-                                alt="image"
-                            />
-
-                            <img
-                                className="w-3/4 mx-auto pb-6"
-                                src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/fire.svg"
-                                alt="image"
-                            />
-
-                            <div>
-                                <h3 className="heading-3 text-center text-white font-EvilEmpire pb-2">
-                                    PORTIS
+                                    Polygon
                                 </h3>
 
                                 <p className="text text-center pb-5">
