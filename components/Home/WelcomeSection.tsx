@@ -1,7 +1,7 @@
 const WelcomeSection = () => {
     return (
         <div className="welcome-section" id="welcome-section">
-            <div className="custom-container">
+            <div className="custom-container pt-20 md:pt-28 lg:pt-48">
                 <h2 className="heading-2 font-EvilEmpire text-center text-white pb-8">
                     A Unique Play to Earn Rent to Earn and Collect{" "}
                     <br className="hidden lg:block" /> to Earn scholarship{" "}
