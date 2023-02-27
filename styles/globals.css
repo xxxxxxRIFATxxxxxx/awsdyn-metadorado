@@ -86,6 +86,10 @@ body {
     .text {
         @apply text-base lg:text-sm xl:text-base text-white;
     }
+
+    .zoom-in-animation {
+        @apply hover:scale-105 transition duration-500 ease-in-out cursor-pointer;
+    }
 }
 
 /* Loading Screen */
