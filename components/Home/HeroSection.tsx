@@ -10,8 +10,29 @@ const HeroSection = () => {
     return (
         <div className="hero-section player-wrapper" id="hero-section">
             {/* For Web */}
-            <div className="video-container hidden lg:block">
-                <iframe src="https://www.youtube.com/embed/wObg056Dpw4?vq=hd1080&controls=0&autoplay=1&mute=1&playsinline=1&playlist=wObg056Dpw4&loop=1"></iframe>
+            <div className="hidden lg:block">
+                <div className={`${showLoader ? "block" : "hidden"}`}>
+                    <LoadingScreen />
+                </div>
+
+                <ReactPlayer
+                    className="player-wrapper w-full"
+                    url="https://spectacular-cucurucho-f4568c.netlify.app/images/hero-section-video.mp4"
+                    playing
+                    muted
+                    loop
+                    width="100%"
+                    height="100%"
+                    preload="none"
+                    config={{
+                        file: {
+                            attributes: {
+                                poster: "https://moonlit-snickerdoodle-f90af8.netlify.app/images/hero-section-icon.png",
+                            },
+                        },
+                    }}
+                    onReady={() => setShowLoader(false)}
+                />
             </div>
 
             {/* For Tablet */}

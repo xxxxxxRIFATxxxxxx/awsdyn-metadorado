@@ -6,15 +6,15 @@ const Footer = () => {
             <div className="custom-container">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                     <div className="pb-8 md:pb-0">
-                        <h3 className="heading-3 font-EvilEmpire text-white text-center lg:text-start pb-8">
-                            Dorado
-                        </h3>
-
-                        {/* <p className="text text-white text-center lg:text-start pb-8">
-                            We are the best way to check the{" "}
-                            <br className="hidden lg:block" /> rarity of NFT
-                            collection.
-                        </p> */}
+                        <Link href="/">
+                            <div className="pb-4">
+                                <img
+                                    className="w-48"
+                                    src="/images/dorado-logo-2.png"
+                                    alt="image"
+                                />
+                            </div>
+                        </Link>
 
                         <div className="text-center lg:text-start">
                             <Link href="/">

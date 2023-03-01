@@ -53,7 +53,7 @@ const WalletSection = () => {
                         <div className="flip-box">
                             <img
                                 className="w-1/3 mx-auto pb-1 flip-img"
-                                src="/images/dorado-wallet.png"
+                                src="/images/dorado-logo.png"
                                 alt="image"
                             />
 

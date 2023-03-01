@@ -4,12 +4,6 @@ const CombatGameSection = () => {
             <div className="custom-container">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16">
                     <div className="grid grid-cols-1 md:grid-cols-3">
-                        {/* <img
-                            className="w-full mx-auto rounded-[20px]"
-                            src="https://moonlit-snickerdoodle-f90af8.netlify.app/images/combat-game-icon.png"
-                            alt="image"
-                        /> */}
-
                         <div className="col-span-2">
                             <img
                                 className="w-full zoom-in-animation"

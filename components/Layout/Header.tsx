@@ -23,9 +23,11 @@ const Header = () => {
                 <div className="flex items-center justify-between">
                     <div>
                         <Link href="/">
-                            <h3 className="heading-3 font-EvilEmpire text-white">
-                                Dorado
-                            </h3>
+                            <img
+                                className="w-48"
+                                src="/images/dorado-logo-2.png"
+                                alt="image"
+                            />
                         </Link>
                     </div>
 
@@ -183,9 +185,11 @@ const Header = () => {
                 <nav className="py-2.5 w-full">
                     <div className="flex flex-wrap items-center justify-between mx-auto">
                         <Link href="/">
-                            <h3 className="text-4xl font-EvilEmpire green-text">
-                                Dorado
-                            </h3>
+                            <img
+                                className="w-48"
+                                src="/images/dorado-logo-2.png"
+                                alt="image"
+                            />
                         </Link>
 
                         <div className="flex lg:order-2">
