@@ -1,5 +1,6 @@
 import CarbonCreditSection from "../components/Home/CarbonCreditSection";
 import CarRaceSection from "../components/Home/CarRaceSection";
+import CertificateSection from "../components/Home/CertificateSection";
 import CombatGameSection from "../components/Home/CombatGameSection";
 import ContactSection from "../components/Home/ContactSection";
 import CountDownSection from "../components/Home/CountDownSection";
@@ -34,6 +35,7 @@ export default function Home() {
             <TokenDistributionSection />
             <RoadMapSection />
             <WalletSection />
+            <CertificateSection />
             <ContactSection />
         </>
     );

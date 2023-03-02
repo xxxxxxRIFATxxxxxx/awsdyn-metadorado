@@ -443,6 +443,20 @@ iframe {
     transition: 1s;
 }
 
+/* Certificate Section */
+.certificate-section {
+    background-color: black;
+}
+
+.certificate-video {
+    transform: scale(1);
+    transition: all 1s ease-in-out;
+}
+
+.certificate-video:hover {
+    transform: scale(1.5);
+}
+
 /* Contact Section */
 .contact-section {
     background-color: var(--dark-green);
