@@ -32,7 +32,7 @@ const CombatGameSection = () => {
                                 upgradeable NFT WarShips equipped with the
                                 latest weapons and mods. Use your tactical
                                 decision-making skills to outsmart and defeat
-                                your opponents in strategic turn-based combat.
+                                your opponents in strategic turn-based combat
                             </p>
                         </div>
                     </div>

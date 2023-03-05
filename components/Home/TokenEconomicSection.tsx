@@ -20,7 +20,7 @@ const TokenEconomicSection = () => {
                                 Once you have a Avatar or NFT, you will be able
                                 to mint one of the NFTS, which are 1:1 replicas
                                 of Real- World. If your NFT wins, you are
-                                rewarded in the Dorado metaverse.
+                                rewarded in the Dorado metaverse
                             </p>
                         </div>
                     </div>

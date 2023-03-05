@@ -45,7 +45,7 @@ const PlayAndEarnSection = () => {
                                     of the DeFi and GameFi industries by solving
                                     the issue of high entry barriers and costly
                                     transaction fees. You can Rent your NFTs to
-                                    Others who can’t afford to Buy the NFT’s.
+                                    Others who can’t afford to Buy the NFT’s
                                 </p>
                             </div>
                         </div>
@@ -78,7 +78,7 @@ const PlayAndEarnSection = () => {
                                     begun to dabble in the NFT space, most
                                     blockchain games in this generation are less
                                     interesting and fun than traditional video
-                                    games.
+                                    games
                                 </p>
                             </div>
                         </div>
@@ -113,7 +113,7 @@ const PlayAndEarnSection = () => {
                                     acquires NFT assets and rents them to new
                                     players so they can start playing and
                                     earning in-game tokens without spending any
-                                    money.
+                                    money
                                 </p>
                             </div>
                         </div>

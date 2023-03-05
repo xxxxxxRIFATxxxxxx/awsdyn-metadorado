@@ -11,7 +11,7 @@ const WelcomeSection = () => {
 
                 <p className="text text-white text-justify pb-8 w-full lg:w-[50%] mx-auto">
                     It is the Token built by a Visionary Team with Real time Use
-                    case and a Platform built for all future Web3.0 and
+                    case and a Platform built for all future Web 3.0 and
                     Metaverse Application to enhance a Global community
                     resulting in{" "}
                     <span className="font-bold green-text">
@@ -21,7 +21,7 @@ const WelcomeSection = () => {
                     <span className="font-bold green-text">
                         Play2Earn Unique strategy{" "}
                     </span>
-                    for its Community Members.
+                    for its Community Members
                 </p>
 
                 <p className="text text-white text-justify pb-8 w-full lg:w-[50%] mx-auto">
@@ -30,7 +30,7 @@ const WelcomeSection = () => {
                     <span className="font-bold green-text">Competitive</span>,
                     and Addictive NFT Car Racing Game. Show off your skills
                     behind the wheel and dominate your opponents to win big
-                    rewards in the AmiDorado Metaverse.
+                    rewards in the AmiDorado Metaverse
                 </p>
             </div>
         </div>

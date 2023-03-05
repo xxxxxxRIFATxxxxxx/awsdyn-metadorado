@@ -9,7 +9,7 @@ const WhyChooseUsSection = () => {
                 <p className="text text-white text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     Security: The website may have robust security measures in
                     place to <br className="hidden lg:block" /> protect user's
-                    assets.
+                    assets
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-4 xl:gap-16">
@@ -49,8 +49,7 @@ const WhyChooseUsSection = () => {
                             <p className="text text-center text-white">
                                 DSF is built on the BSC Blockchain, which is
                                 fast, low on gas, and has a rising number of
-                                validators, promising it to be firmer by the
-                                day.
+                                validators, promising it to be firmer by the day
                             </p>
                         </div>
                     </div>
@@ -91,7 +90,7 @@ const WhyChooseUsSection = () => {
                             <p className="text text-center text-white">
                                 We use cutting edge technology and meld them
                                 revolutionary and innovative projects
-                                benefitting the community.
+                                benefitting the community
                             </p>
                         </div>
                     </div>

@@ -58,7 +58,7 @@ const WhitePaperSection = () => {
                                     Offerings, to make tokenization a viable
                                     alternative financial instrument to be used
                                     by companies, and mechanism for investors to
-                                    generate passive income.
+                                    generate passive income
                                 </span>
 
                                 <span

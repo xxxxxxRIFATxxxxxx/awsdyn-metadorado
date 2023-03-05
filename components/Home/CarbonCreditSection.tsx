@@ -46,7 +46,7 @@ const CarbonCreditSection = () => {
                                     performed by every user resulting in
                                     Sophistication of Planet Earth by making
                                     more Eco Friendly and Developing the
-                                    Renewable energy.
+                                    Renewable energy
                                     <br /> <br />
                                     Using nonfungible tokens (NFTs) as carbon
                                     credits or carbon offsets reveals an outlet
@@ -64,7 +64,7 @@ const CarbonCreditSection = () => {
                                     markets. Most of this activity currently
                                     takes place on the Binance blockchain as it
                                     has already offset its entire carbon
-                                    footprint.
+                                    footprint
                                 </span>
 
                                 <span

@@ -11,7 +11,7 @@ const TokenDistributionSection = () => {
 
                 <p className="text text-white text-justify md:text-center pb-12 w-full lg:w-[50%] mx-auto">
                     <span className="font-bold green-text">
-                        Total Supply - 111,111,111
+                        Total Token Supply: 11, 11, 11, 111
                     </span>{" "}
                     Tokens Total tokens Locked for 10 Years Token Released Every
                     Day - 50% Tokens Locked for Metaverse, Gaming Rewards
