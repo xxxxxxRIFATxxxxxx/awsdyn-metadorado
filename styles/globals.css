@@ -166,7 +166,8 @@ body {
 
 /* Header Section */
 .header-section {
-    background-image: url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/header-section-bg.svg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url("https://moonlit-snickerdoodle-f90af8.netlify.app/images/header-section-bg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

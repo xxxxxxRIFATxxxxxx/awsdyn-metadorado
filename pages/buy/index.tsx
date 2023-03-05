@@ -45,30 +45,35 @@ const index = () => {
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 py-8">
                             <div>
                                 <h2 className="heading-2 font-EvilEmpire text-white text-center lg:text-start pb-8">
-                                    CRYPTO THE REVOLUTION IN THE IN{" "}
+                                    CRYPTO THE REVOLUTION{" "}
                                     <span className="green-text">
-                                        VIRTUAL COIN
+                                        DRD TOKEN
                                     </span>
                                 </h2>
 
                                 <p className="text text-white text-justify pb-8 w-full">
-                                    Buy now and get +40% extra bonus Minimum
-                                    per-sale amount 25 cryptic coin. We accept
-                                    BTC crypto-currency
+                                    Participate in Our Only Public Sale before
+                                    we get listed on Exchanges and get Good
+                                    Appreciation Value. The Public sale is very
+                                    much Limited of only 0.5% of total Supply.
+                                    You will never get an Oppertunity to Acquire
+                                    Dorado Tokens at this Price .Very Limited
+                                    Supply so "Hurry UP" for an Oppertunity
+                                    never to be Missed
                                 </p>
 
                                 <div>
                                     <div className="pb-10 text text-center lg:text-start">
                                         <p className="font-semibold green-text">
-                                            Total Token: 111,1111,1111
+                                            Total Token Supply: 11, 11, 11, 111
                                         </p>
 
                                         <p className="text green-text">
-                                            Token For Website Sale: 555,555,55
+                                            Token For Website Sale: 55, 55, 555
                                         </p>
 
                                         <p className="text">
-                                            Total Price: TBA Before IDO
+                                            Public Sale Price: TBA Before IDO
                                         </p>
                                     </div>
 
@@ -164,28 +169,32 @@ const index = () => {
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 py-8">
                         <div>
                             <h2 className="heading-2 font-EvilEmpire text-white text-center lg:text-start pb-8">
-                                CRYPTO THE REVOLUTION IN THE IN{" "}
-                                <span className="green-text">VIRTUAL COIN</span>
+                                CRYPTO THE REVOLUTION{" "}
+                                <span className="green-text">DRD TOKEN</span>
                             </h2>
 
                             <p className="text text-white text-justify pb-8 w-full">
-                                Buy now and get +40% extra bonus Minimum
-                                per-sale amount 25 cryptic coin. We accept BTC
-                                crypto-currency
+                                Participate in Our Only Public Sale before we
+                                get listed on Exchanges and get Good
+                                Appreciation Value. The Public sale is very much
+                                Limited of only 0.5% of total Supply. You will
+                                never get an Oppertunity to Acquire Dorado
+                                Tokens at this Price .Very Limited Supply so
+                                "Hurry UP" for an Oppertunity never to be Missed
                             </p>
 
                             <div>
                                 <div className="pb-10 text text-center lg:text-start">
                                     <p className="font-semibold green-text">
-                                        Total Token: 111,1111,1111
+                                        Total Token Supply: 11, 11, 11, 111
                                     </p>
 
                                     <p className="text green-text">
-                                        Token For Website Sale: 555,555,55
+                                        Token For Website Sale: 55, 55, 555
                                     </p>
 
                                     <p className="text">
-                                        Total Price: TBA Before IDO
+                                        Public Sale Price: TBA Before IDO
                                     </p>
                                 </div>
 
