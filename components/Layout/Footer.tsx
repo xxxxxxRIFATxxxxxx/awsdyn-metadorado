@@ -9,7 +9,7 @@ const Footer = () => {
                         <Link href="/">
                             <div className="pb-4">
                                 <img
-                                    className="w-48"
+                                    className="w-48 mx-auto lg:mx-0 lg:mr-auto"
                                     src="/images/dorado-logo-2.png"
                                     alt="image"
                                 />
